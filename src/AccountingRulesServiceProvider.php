@@ -1,6 +1,6 @@
 <?php
 
-namespace Saci\AccountingRules;
+namespace Smartcloud\AccountingRules;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -25,6 +25,6 @@ class AccountingRulesServiceProvider extends ServiceProvider
     public function register()
     {
         //
-        $this->app->make('Saci\AccountingRules\AccountingRulesController');
+        $this->app->make('Smartcloud\AccountingRules\AccountingRulesController');
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Saci\AccountingRules;
+namespace Smartcloud\AccountingRules;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
