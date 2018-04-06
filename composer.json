@@ -1,0 +1,12 @@
+{
+    "name": "saci/accounting-rules",
+    "description": "This package containt service about accounting rules developed by Indonesia Smartcloud ( PT. Solusi Awan Cerdas Indonesia\"",
+    "authors": [
+        {
+            "name": "Budi Santoso",
+            "email": "budi.itpens@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
